@@ -1,5 +1,5 @@
 
-# Proje Başlığı
+# Project title
 - Extantion Spoofer
 
 - This project changing your project extantion like .pdf, .png
