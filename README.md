@@ -1,1 +1,13 @@
-[README (3).md](https://github.com/quicaxd/Extantion-Spoofer-C-/files/10994318/README.3.md)
+
+# Proje Başlığı
+- Extantion Spoofer
+
+- This project changing your project extantion like .pdf, .png
+
+- This is for educational purposes
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+    
+    
