@@ -1,0 +1,13 @@
+C:\Users\anani\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.exe.config
+C:\Users\anani\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.exe
+C:\Users\anani\source\repos\Spoofer\Spoofer\bin\Debug\Spoofer.pdb
+C:\Users\anani\source\repos\Spoofer\Spoofer\bin\Debug\Guna.UI2.dll
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.AssemblyReference.cache
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.Form1.resources
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.Properties.Resources.resources
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.GenerateResource.cache
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.csproj.CopyComplete
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.exe
+C:\Users\anani\source\repos\Spoofer\Spoofer\obj\Debug\Spoofer.pdb
