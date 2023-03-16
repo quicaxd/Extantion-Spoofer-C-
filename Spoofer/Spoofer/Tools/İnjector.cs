@@ -22,7 +22,7 @@ namespace Spoofer.Tools
             string reversChar = "\u202E"; //read this text https://www.fileformat.info/info/unicode/char/202e/index.htm to this char explanation
             var Spoofer = Path.GetFileNameWithoutExtension(filePath) + reversChar + ReverseString(extantion) + Path.GetExtension(filePath);
 
-            MessageBox.Show($"Changin file name to {Path.GetFileNameWithoutExtension(filePath)}exe{extantion}");
+            MessageBox.Show($"Changing file name to {Path.GetFileNameWithoutExtension(filePath)}exe{extantion}");
             return Spoofer;
         }
     }
